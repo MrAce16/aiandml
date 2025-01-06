@@ -1,7 +1,0 @@
-.. _misc_visualize:
-
-Visualize
-=========
-
-.. automodule:: misc.visualize
-   :members:

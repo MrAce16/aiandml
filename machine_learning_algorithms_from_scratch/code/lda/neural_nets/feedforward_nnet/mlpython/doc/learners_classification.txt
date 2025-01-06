@@ -1,8 +1,0 @@
-.. _learners_classification:
-
-Classification Learners
-=======================
-
-.. automodule:: learners.classification
-   :members:
-

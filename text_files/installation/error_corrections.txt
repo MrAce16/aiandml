@@ -1,2 +1,0 @@
-
-git add demo.txt git commit -m "demo.txt file is modified"

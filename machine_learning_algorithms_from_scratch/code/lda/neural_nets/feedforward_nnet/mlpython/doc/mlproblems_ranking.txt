@@ -1,8 +1,0 @@
-.. _mlproblems_ranking:
-
-Ranking MLProblems 
-==================
-
-.. automodule:: mlproblems.ranking
-   :members:
-

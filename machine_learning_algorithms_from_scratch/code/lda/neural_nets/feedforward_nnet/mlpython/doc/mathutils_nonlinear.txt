@@ -1,8 +1,0 @@
-.. _mathutils_nonlinear:
-
-Nonlinear operations
-=========================
-
-.. automodule:: mathutils.nonlinear
-   :members:
-

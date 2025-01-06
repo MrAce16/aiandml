@@ -1,1 +1,0 @@
-python polynomial_regression.py

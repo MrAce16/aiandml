@@ -1,8 +1,0 @@
-.. _learners_ranking:
-
-Ranking Learners
-================
-
-.. automodule:: learners.ranking
-   :members:
-

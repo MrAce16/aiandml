@@ -1,8 +1,0 @@
-
-
-
-
-astyle installation
-https://sourceforge.net/projects/astyle/
-
-

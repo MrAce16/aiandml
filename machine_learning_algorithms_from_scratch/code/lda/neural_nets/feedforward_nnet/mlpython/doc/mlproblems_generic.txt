@@ -1,8 +1,0 @@
-.. _mlproblems_generic:
-
-Generic MLProblems
-==================
-
-.. automodule:: mlproblems.generic
-   :members:
-

@@ -1,9 +1,0 @@
-
-
-read_csv uses sep=',', read_table uses sep='\t' 
-read_table is deprecated since pandas 0.23.0
-
-read_csv is faster than read_excel
-
-
-

@@ -1,7 +1,0 @@
-.. _mlproblems_classification:
-
-Classification MLProblems
-=========================
-
-.. automodule:: mlproblems.classification
-   :members:

@@ -1,8 +1,0 @@
-.. _mathutils_linalg:
-
-Linear algebra operations
-=========================
-
-.. automodule:: mathutils.linalg
-   :members:
-

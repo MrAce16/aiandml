@@ -1,8 +1,0 @@
-.. _learners_distribution:
-
-distribution Learners
-================
-
-.. automodule:: learners.distribution
-   :members:
-
